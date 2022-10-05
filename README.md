@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://vigneshsadhu.hashnode.dev/](https://vigneshsadhu.hashnode.dev/)
 
-- 💬 Ask me about **HTML, CSS and Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript, Bootstrap**
 
 - 📫 How to reach me **vigneshsadhu506@gmail.com**
 
