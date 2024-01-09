@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/imvignesh21" target="blank"><img src="https://img.shields.io/twitter/follow/imvignesh21?logo=twitter&style=for-the-badge" alt="imvignesh21" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m learning **Typescript**
 
 - 📝 I regularly write articles on [https://vigneshsadhu.hashnode.dev/](https://vigneshsadhu.hashnode.dev/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Bootstrap**
+- 💬 Ask me about **HTML, CSS, Javascript, Bootstrap, React.js, Redux**
 
 - 📫 How to reach me **vigneshsadhu506@gmail.com**
 
